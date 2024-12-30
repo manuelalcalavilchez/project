@@ -2,5 +2,5 @@ export const AI_ENDPOINT = 'https://api-inference.huggingface.co/models/facebook
 export const DEFAULT_HEADERS = {
   'Content-Type': 'application/json',
    'Authorization': 'Bearer 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'
-  
+  //algo
 };
